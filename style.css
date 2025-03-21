@@ -1,9 +1,17 @@
 maiN{
-   background-color:rgb(0, 255, 255)
+   background-color:rgb(246, 246, 246)
 
 }
    
    body{
-      background-color:rgb(255, 18, 18)
+      background-color:rgb(30, 255, 0)
 
    }
+
+   p{
+      color: rgb(0, 0, 0);
+   }
+
+#banner{
+   width: 100%;
+}

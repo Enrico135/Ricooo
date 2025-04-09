@@ -4,7 +4,7 @@ maiN{
 }
    
    body{
-      background-color:rgb(28, 237, 1)
+      background-color:rgb(255, 255, 255)
 
    }
 
@@ -13,11 +13,11 @@ maiN{
    }
 
 #banner{
-   width: 100%;
+   width: 50%;
 
 }
 footer img{
-width: 100;
+width: 50;
 }
 .copyright{
    color: rgb(0, 136, 255);
